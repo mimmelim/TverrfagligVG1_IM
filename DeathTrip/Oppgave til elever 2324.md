@@ -24,9 +24,9 @@ I uke 9 starter vi arbeidet med Death Trip. Kick Off er tirsdag 27. februar. Ons
 Finn et godt navn på kampanjen din.
 
 ### Oppgave 2
-a)	Lag et slagord for kampanjen din. Bruk KI som inspirasjon.
-b)	vurder (og begrunn) kvaliteten i slagordet (hva kjennetegner et godt slagord?)
-c)	sjekk at slagordet ikke er brukt av noen andre
+- Lag et slagord for kampanjen din. Bruk KI som inspirasjon.
+- vurder (og begrunn) kvaliteten i slagordet (hva kjennetegner et godt slagord?)
+- sjekk at slagordet ikke er brukt av noen andre
 
 ### Oppgave 3
 Bestem hvilke tre produkter du skal lage, med begrunnelse for hvorfor dette er gode/lure produkter i kampanjen
